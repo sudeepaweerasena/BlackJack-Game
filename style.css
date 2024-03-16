@@ -1,0 +1,40 @@
+body{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1{
+    font-family: cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+#btn, #btn-re{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    margin-left: 20%;
+}
+
+h3{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+#main-result{
+    border: black 4px solid;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#btn-re{
+    display: none;
+    margin-top: 20px;
+}
+
+img{
+    margin-left: 10px;
+}
